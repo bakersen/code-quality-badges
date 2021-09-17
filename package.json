@@ -4,7 +4,7 @@
   "description": "Test 1st Approach",
   "main": "index.js",
   "scripts": {
-    "test": "jshint calculator.js"
+    "test": "mocha test"
   },
   "keywords": [],
   "author": "Winnie & Baker",
