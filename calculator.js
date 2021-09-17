@@ -18,4 +18,4 @@ divide = (a, b) => {
 
 
 
-module.exports = substract
+module.exports = add
