@@ -1,17 +1,17 @@
 
-add = (a, b) => {
+let add = (a, b) => {
     return a + b
 }
 
-substract = (a, b) => {
+let substract = (a, b) => {
     return a - b
 }
 
-multiply = (a, b) => {
+let multiply = (a, b) => {
     return a * b
 }
 
-divide = (a, b) => {
+let divide = (a, b) => {
     return a / b
 }
 
