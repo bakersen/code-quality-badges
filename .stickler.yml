@@ -1,4 +1,5 @@
 ---
 linters:
-    eslint:
-        config: './eslintrc.json'
+    # eslint:
+    #     config: './node_modules/eslint-config-airbnb-base/.eslintrc'
+    jshint:
