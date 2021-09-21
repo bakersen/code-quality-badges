@@ -2,5 +2,5 @@
 linters:
     eslint:
         config: './.eslintrc.json' 
-    fixers:
-        enable: true
+fixers:
+    enable: true
